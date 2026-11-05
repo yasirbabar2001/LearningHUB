@@ -1,0 +1,1 @@
+ALTER TABLE public.trainings ADD COLUMN IF NOT EXISTS eval_duration_minutes integer NOT NULL DEFAULT 15;

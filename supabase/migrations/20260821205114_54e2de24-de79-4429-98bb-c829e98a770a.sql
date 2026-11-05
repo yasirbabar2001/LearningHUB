@@ -1,0 +1,1 @@
+DELETE FROM public.trainer_feedback WHERE participants_count = 20 AND submitted_at > now() - interval '30 minutes';

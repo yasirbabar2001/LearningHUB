@@ -1,0 +1,1 @@
+REVOKE ALL ON FUNCTION public.assign_training_code() FROM PUBLIC, anon, authenticated;

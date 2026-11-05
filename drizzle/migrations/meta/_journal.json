@@ -1,0 +1,195 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789714839619,
+      "tag": "0000_secure_leaderboard_reactions_and_moderation",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789815519763,
+      "tag": "0001_onboarding_attendance",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789971665715,
+      "tag": "0002_add_eval_duration_minutes",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789990198428,
+      "tag": "0003_add_onboarding_eligibility",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789994687999,
+      "tag": "0004_owner_email_yasir_babar",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1789999332515,
+      "tag": "0005_tighten_leaderboard_media_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790017345467,
+      "tag": "0006_create_survey_questions",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1790020158767,
+      "tag": "0007_add_trainer_employee_code",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1790023743335,
+      "tag": "0008_owner_yasir_babar",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1790025477877,
+      "tag": "0009_create_profile_change_requests",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1790030507509,
+      "tag": "0010_restrict_lov_reads_to_authenticated",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1790289673781,
+      "tag": "0011_abhi_ideas_module",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1790513768780,
+      "tag": "0012_leaderboard_replies_single_reaction",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1790514204100,
+      "tag": "0013_mentions_and_direct_messages",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1790514461185,
+      "tag": "0014_dm_notify_link_leaderboard",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1790514672771,
+      "tag": "0015_user_presence",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1790515111894,
+      "tag": "0016_admin_team_identity_choice",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1790520350678,
+      "tag": "0017_chat_attachments_replies_likes",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1790520623996,
+      "tag": "0018_dm_body_allow_attachment",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1790586965880,
+      "tag": "0019_tighten_presence_ideaoptions_media",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "7",
+      "when": 1790588825092,
+      "tag": "0020_dm_send_fix_and_delivery",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "7",
+      "when": 1790675455421,
+      "tag": "0021_coach_messages_log",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "7",
+      "when": 1790683675587,
+      "tag": "0022_portal_single_session",
+      "breakpoints": true
+    },
+    {
+      "idx": 23,
+      "version": "7",
+      "when": 1791067908226,
+      "tag": "0023_virtual_sessions",
+      "breakpoints": true
+    },
+    {
+      "idx": 24,
+      "version": "7",
+      "when": 1791071810875,
+      "tag": "0024_evaluation_started_at",
+      "breakpoints": true
+    },
+    {
+      "idx": 25,
+      "version": "7",
+      "when": 1791076442152,
+      "tag": "0025_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 26,
+      "version": "7",
+      "when": 1791260528255,
+      "tag": "0026_password_expiry",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.feedback_snapshot() FROM PUBLIC, anon, authenticated;

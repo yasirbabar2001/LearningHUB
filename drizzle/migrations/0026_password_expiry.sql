@@ -1,0 +1,1 @@
+ALTER TABLE public.portal_users ADD COLUMN IF NOT EXISTS password_changed_at timestamptz NOT NULL DEFAULT now();

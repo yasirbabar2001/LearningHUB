@@ -1,0 +1,2 @@
+ALTER TABLE public.trainers ADD COLUMN IF NOT EXISTS employee_code text;
+CREATE UNIQUE INDEX IF NOT EXISTS trainers_employee_code_lower_idx ON public.trainers (lower(employee_code)) WHERE employee_code IS NOT NULL;
